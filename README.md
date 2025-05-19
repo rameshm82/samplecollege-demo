@@ -1,2 +1,2 @@
 # samplecollege-demo
-This is my sample Git Repository
+This is my sample Git Repository.
